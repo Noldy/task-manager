@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0f4170</color>
+    <color name="colorPrimaryDark">#0d355b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="rowColor">#FFFFFF</color>
+    <color name="completedRowColor">#cacaca</color>
+    <color name="mainBackgroundColor">#dfdfdf</color>
+    <color name="navigationMenuBackgroundColor">#0f4170</color>
+</resources>
