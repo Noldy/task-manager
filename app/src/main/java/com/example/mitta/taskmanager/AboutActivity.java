@@ -36,7 +36,7 @@ public class AboutActivity extends AppCompatActivity {
         actionBar.setHomeAsUpIndicator(R.drawable.ic_menu);
 
         //TextView
-        String about = "App created by Tasos Mittas\n\nEmail: mittast@gmail.com\n\nThis app is made for the purpose of practising on " +
+        String about = "App created by Tasos Mittas\n\nEmail: mittast@gmail.com\n\nThis app was made for the purpose of practising on " +
                 "Room, RecyclerView, ViewHolders, Adapters and general techniques used to make apps in Android Studio.";
 
         TextView textView = findViewById(R.id.aboutTextView);
